@@ -2,6 +2,7 @@
 **Internship Overview:** Join TechnoHacks Solutions as a Python Development Intern and embark on a hands-on journey to strengthen your coding skills through a series of exciting projects. This internship is ideal for aspiring developers who are eager to apply Python programming to build real-world applications. Under the guidance of experienced mentors, you will work on practical projects that not only enhance your coding skills but also challenge your problem-solving abilities.
 
 **Key Projects:**
+
 **1) ATM Simulator:** Develop a fully functional ATM simulator where users can withdraw, deposit, and check their account balance. This project will help you understand the basics of user interaction, data handling, and logic building.
 
 **2) Currency Converter:** Create a simple yet effective currency converter that pulls exchange rates and converts between different currencies. This project introduces you to working with APIs, mathematical operations, and data validation.
